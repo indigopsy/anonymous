@@ -3,11 +3,15 @@ anonymous
 
 Script for anonymous surfing
 
-Tested od:
 
+Tested
+---
+
+```
 backbox-linux-4.5-amd64
-
 kali-linux-2016.01-amd64
+
+```
 
 Usage
 ---
@@ -38,3 +42,6 @@ Contributing
 6. Enjoy a refreshing `Insert Favorite Beverage` and wait
 
 [1]: https://github.com/acrogenesis/macchanger/pulls
+
+
+git add * && sudo git commit -m "Commit message" && git push origin master
