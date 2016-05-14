@@ -3,11 +3,17 @@ anonymous
 
 Script for anonymous surfing
 
+Tested od:
+
+backbox-linux-4.5-amd64
+
+kali-linux-2016.01-amd64
+
 Usage
 ---
 
 ```
-Usage: anonymous
+Usage: anonymous option
     start,                    start anonymous script
     stop,                     stop anonymous script
     status,                   status anonymous script
