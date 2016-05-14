@@ -117,8 +117,6 @@ check_apps() {
 }
 
 
-
-
 #====================C H E C K  C O N F I G====================
 
 check_configs() {
@@ -334,8 +332,6 @@ killer() {
 }
 
 
-
-
 #====================REDIRECT TO TOR====================
 
 redirect_to_tor() {
@@ -455,6 +451,7 @@ change_mac() {
 	printf "\n"
 }
 
+
 #====================KILL PROCESSES====================
 
 kill_processes() {
@@ -470,6 +467,7 @@ kill_processes() {
 	printf "\n"
 
 }
+
 
 #====================P L A Y G R O U N D====================
 
