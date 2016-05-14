@@ -13,9 +13,11 @@ kali-linux-2016.01-amd64
 Install:
 ---
 
-1. `git clone https://github.com/indigopsy/anonymous.git`
-2. `cd anonymous`
-3. `sudo ./anonymous start`
+```
+git clone https://github.com/indigopsy/anonymous.git
+cd anonymous
+sudo ./anonymous start
+```
 
 
 Usage:
