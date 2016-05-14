@@ -1,10 +1,7 @@
-anonymous
+anonymous v0.160513
 ==========
 
-Script for anonymous surfing
-
-
-Tested
+Tested on:
 ---
 
 ```
@@ -13,7 +10,7 @@ kali-linux-2016.01-amd64
 
 ```
 
-Usage
+Usage:
 ---
 
 ```
@@ -24,14 +21,14 @@ Usage: anonymous option
 
 ```
 
-Install
+Install:
 ---
 
 1. `git clone https://github.com/indigopsy/anonymous.git`
 2. `cd anonymous`
 3. `sudo ./anonymous start`
 
-Contributing
+Contributing:
 ---
 
 1. Fork it.
