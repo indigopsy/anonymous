@@ -4,22 +4,9 @@ anonymous v0.160513
 Tested on:
 ---
 
-```
-backbox-linux-4.5-amd64
-kali-linux-2016.01-amd64
+`backbox-linux-4.5-amd64`
+`kali-linux-2016.01-amd64`
 
-```
-
-Usage:
----
-
-```
-Usage: anonymous option
-    start,                    start anonymous script
-    stop,                     stop anonymous script
-    status,                   status anonymous script
-
-```
 
 Install:
 ---
@@ -27,6 +14,19 @@ Install:
 1. `git clone https://github.com/indigopsy/anonymous.git`
 2. `cd anonymous`
 3. `sudo ./anonymous start`
+
+
+Usage:
+---
+
+```
+anonymous start
+anonymous stop
+anonymous status
+
+```
+
+
 
 Contributing:
 ---
