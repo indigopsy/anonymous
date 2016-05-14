@@ -16,6 +16,7 @@ Install:
 ```
 git clone https://github.com/indigopsy/anonymous.git
 cd anonymous
+chmod +x anonymous
 sudo ./anonymous start
 ```
 
