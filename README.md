@@ -13,7 +13,9 @@ kali-linux-2016.1-amd64
 
 # Usage
 > sudo ./anonymous start
+
 > sudo ./anonymous stop
+
 > sudo ./anonymous status
 
 y
