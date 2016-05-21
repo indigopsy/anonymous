@@ -32,7 +32,7 @@ fi
 NON_TOR="192.168.0.0/16 172.16.0.0/12"
 TOR_UID="debian-tor"
 TRANS_PORT="9040"
-TO_KILL="chrome iceweasel megasync firefox pidgin skype thunderbird xchat noip2 qbittorrent remmina"
+TO_KILL=" iceweasel megasync firefox pidgin skype thunderbird xchat noip2 qbittorrent remmina"
 BLEACHBIT_CLEANERS="bash.history system.cache system.clipboard system.custom system.recent_documents system.rotated_logs system.tmp system.trash"
 REAL_HOSTNAME="terminal"
 NAMESERVER="127.0.0.1"
@@ -40,8 +40,7 @@ RESOLV_CONF="/etc/resolv.conf"
 INTERFACES="eth0 wlan0" # separate by space
 CHECK_URL="https://check.torproject.org/?lang=en_US"
 TEMP_FILE="/tmp/tor_check.tmp"
-ICON="/usr/share/icons/anonymous.png"
-
+ICON="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )/anonymous.png"
 
 
 check_apps() {
