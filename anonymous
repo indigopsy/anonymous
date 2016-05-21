@@ -32,8 +32,8 @@ fi
 NON_TOR="192.168.0.0/16 172.16.0.0/12"
 TOR_UID="debian-tor"
 TRANS_PORT="9040"
-TO_KILL=" iceweasel megasync firefox pidgin skype thunderbird xchat noip2 qbittorrent remmina"
-BLEACHBIT_CLEANERS="bash.history system.cache system.clipboard system.custom system.recent_documents system.rotated_logs system.tmp system.trash"
+TO_KILL="chrome midor iceweasel megasync firefox pidgin skype thunderbird noip2 qbittorrent remmina"  # separate by space
+BLEACHBIT_CLEANERS="bash.history system.cache system.clipboard system.custom system.recent_documents system.rotated_logs system.tmp system.trash"  # separate by space
 REAL_HOSTNAME="terminal"
 NAMESERVER="127.0.0.1"
 RESOLV_CONF="/etc/resolv.conf"
