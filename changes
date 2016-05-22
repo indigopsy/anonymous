@@ -1,1 +1,2 @@
-2016-05-22 		changed: notify-send -t 5000		->		notify-send -u critical
+2016-05-22 		notify-send -t 5000 -> notify-send -u critical
+				README.MD corrections

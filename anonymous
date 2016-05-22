@@ -42,7 +42,6 @@ CHECK_URL="https://check.torproject.org/?lang=en_US"
 TEMP_FILE="/tmp/tor_check.tmp"
 ICON="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )/anonymous.png"
 
-
 check_apps() {
 	printf "\n${RED}CHECK REQUIRED APPS: ${NC}"
 

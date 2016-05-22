@@ -1,4 +1,3 @@
-anonymous v0.160513-2
 ==========
 
 Tested on:
